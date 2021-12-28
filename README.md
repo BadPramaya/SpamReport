@@ -34,12 +34,12 @@
 
 ```
 📱iSH
-apk update
-apk upgrade
-apk add git
-apk add python
-apk add python2
-apk add python3
+apt update
+apt upgrade
+apt add git
+apt add python
+apt add python2
+apt add python3
 git clone https://github.com/Kiny-Kiny/SpamReport
 cd SpamReport
 python3 -m ensurepip --default-pip
